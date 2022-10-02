@@ -2,7 +2,9 @@
 
 ## Overseeing Bird Migration
 
-Slides: https://docs.google.com/presentation/d/14GheWA1Mgyr_LtluePRRjcV9XkWSl-_bLzSAjpLv-Lk/edit?usp=sharing
+We aim to create a tool to examine the bird migration route along with other NASA airborne data, so that we would find interesting information regarding bird migration.
+
+Slides: https://ppt.cc/fSKAIx
 
 Video: https://www.youtube.com/watch?v=AWc-aflLi1g
 
