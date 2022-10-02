@@ -6,7 +6,7 @@ Slides: https://docs.google.com/presentation/d/14GheWA1Mgyr_LtluePRRjcV9XkWSl-_b
 
 Video: https://www.youtube.com/watch?v=AWc-aflLi1g
 
-Project: https://huggingface.co/spaces/vcdemy/2022_space_apps
+Project Demo: https://huggingface.co/spaces/vcdemy/2022_space_apps
 
 Reference:
 
