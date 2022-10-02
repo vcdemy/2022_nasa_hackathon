@@ -2,6 +2,8 @@
 
 ## Overseeing Bird Migration
 
+Slides: https://docs.google.com/presentation/d/14GheWA1Mgyr_LtluePRRjcV9XkWSl-_bLzSAjpLv-Lk/edit?usp=sharing
+
 Video: https://www.youtube.com/watch?v=AWc-aflLi1g
 
 Project: https://huggingface.co/spaces/vcdemy/2022_space_apps
